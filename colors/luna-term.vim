@@ -84,7 +84,7 @@ hi Normal        ctermfg=254 ctermbg=234 cterm=NONE
 " The Languages stuff
 hi Title         ctermfg=195 ctermbg=NONE cterm=NONE
 " ---------------------------------------------------------------------
-hi Comment       ctermfg=240  ctermbg=NONE cterm=NONE
+hi Comment       ctermfg=22  ctermbg=NONE cterm=NONE
 " ---------------------------------------------------------------------
 hi Constant      ctermfg=227  ctermbg=NONE cterm=NONE
 hi String        ctermfg=74   ctermbg=NONE cterm=NONE
@@ -118,7 +118,7 @@ hi TODO          ctermfg=198  ctermbg=228 cterm=NONE
 " Extended Highlighting
 
 hi NonText      ctermfg=244  ctermbg=NONE cterm=NONE
-hi Visual       ctermfg=235  ctermbg=227  cterm=NONE
+hi Visual       ctermfg=NONE  ctermbg=232  cterm=NONE
 hi ErrorMsg     ctermfg=88   ctermbg=214  cterm=NONE
 hi IncSearch    ctermfg=235  ctermbg=208  cterm=NONE
 hi Search       ctermfg=235  ctermbg=208  cterm=NONE
@@ -127,7 +127,7 @@ hi ModeMsg      ctermfg=241  ctermbg=NONE cterm=NONE
 hi LineNr       ctermfg=244  ctermbg=NONE cterm=NONE
 hi VertSplit    ctermfg=0    ctermbg=238  cterm=NONE
 hi VisualNOS    ctermfg=235  ctermbg=227  cterm=NONE
-hi Folded       ctermfg=23   ctermbg=235  cterm=NONE
+hi Folded       ctermfg=23   ctermbg=NONE  cterm=NONE
 hi DiffAdd      ctermfg=231  ctermbg=22   cterm=NONE
 hi DiffChange   ctermfg=231  ctermbg=30   cterm=NONE
 hi DiffDelete   ctermfg=196  ctermbg=88   cterm=NONE
@@ -142,7 +142,7 @@ hi Pmenu        ctermfg=14   ctermbg=23   cterm=NONE
 hi PmenuSel     ctermfg=23   ctermbg=15   cterm=NONE
 hi PmenuSbar    ctermfg=235  ctermbg=235  cterm=NONE
 hi PmenuThumb   ctermfg=235  ctermbg=235  cterm=NONE
-hi MatchParen   ctermfg=16   ctermbg=203  cterm=NONE
+hi MatchParen   ctermfg=250   ctermbg=203  cterm=NONE
 hi CursorLine   ctermfg=NONE ctermbg=236  cterm=NONE
 hi CursorLineNr ctermfg=117  ctermbg=NONE cterm=NONE
 hi CursorColumn ctermfg=NONE ctermbg=236  cterm=NONE
